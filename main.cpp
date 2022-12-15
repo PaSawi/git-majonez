@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout<<"Goodbay World"<<std::endl;
+	std::cout<<"Goodbay Coders School"<<std::endl;
 }
